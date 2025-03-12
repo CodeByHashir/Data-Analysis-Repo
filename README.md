@@ -24,4 +24,20 @@ This repository includes the following categories:
 2. **Data Science (DS):**
    - Implementation of predictive models and algorithms.
    - Statistical analysis and hypothesis testing.
-   - Advanced techniques in feature engineering and 
+   - Advanced techniques in feature engineering and
+  
+
+---
+
+## 📦 **Technologies Used**
+- **Programming Language:** Python 🐍  
+- **EDA Libraries:** pandas, matplotlib, seaborn  
+- **Visualization Tools:** Plotly, Tableau (if applicable)  
+- **Others:** NumPy, Scikit-learn, etc.
+
+---
+
+## 📜 **How to Use**
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/CodeByHashir/data-analysis-repo.git
